@@ -1,0 +1,5 @@
+declare mpg as integer
+declare miles as integer = 400
+declare gallons as integer = 20
+let mpg = miles / gallons
+print mpg

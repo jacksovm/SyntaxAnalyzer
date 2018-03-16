@@ -1,0 +1,8 @@
+declare i as integer = 1
+declare num as integer = 100
+loop
+    if num % i == 0 then
+		print i
+	endif
+	let i = i + 1
+until i >= num

@@ -1,0 +1,6 @@
+declare x as integer = 2 + 5
+loop 
+	print x
+	let x = x + 1
+until x > 10
+
