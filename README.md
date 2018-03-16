@@ -34,7 +34,7 @@ In order to build the AST, you will create all the classes we have identified in
 ## Sample Output
 
 Below you will find the expected output for each of the three input files provided on Blackboard. Your output must match this exactly. Any programs which do not provide the expected output will receive an automatic deduction of 50%. **Programs which do not compile will receive a zero.**
-![expected output](https://i.imgur.com/Vj4dCez.jpg)
+![expected output](https://i.imgur.com/OMySmQ5.jpg)
 
 
 ## Submission
